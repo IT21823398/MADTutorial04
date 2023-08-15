@@ -17,7 +17,7 @@
         android:layout_marginBottom="16dp"
         android:ems="10"
         android:inputType="text"
-        android:text="New Name" />
+        android:text="Name" />
 
     <EditText
         android:id="@+id/edtPassword"
